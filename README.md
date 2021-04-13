@@ -1,4 +1,4 @@
-# awesomebible/pixels
+# awesomebible/pixels  - Jetzt auf [Codeberg](https://codeberg.org/awesomebible/pixels)
 
 Dieses Repository enthält alle Fotos und Dokumente von awesomeBible.
 
